@@ -22,7 +22,7 @@ FlutterBlue is a bluetooth plugin for Flutter, a new mobile SDK to help develope
   s.prefix_header_file = false
 
   # Check https://david-smith.org/iosversionstats/ to decide minimum compatibility requirements
-  s.platform = :ios, '10.0'
+  s.platform = :ios, '8.0'
   s.framework = 'CoreBluetooth'
 
   s.subspec 'Protos' do |ss|
